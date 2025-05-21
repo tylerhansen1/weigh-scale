@@ -1,4 +1,4 @@
-**# Junior design weigh scale project**
+# **Junior design weigh scale project**
 
 
 in this project my team and I used a series of ICs to create a strain gauge weigh scale. some of the components that we used include:
